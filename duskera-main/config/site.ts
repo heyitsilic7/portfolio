@@ -1,19 +1,19 @@
 export const site = {
-  name: "Buzz.AI",
-  title: "Building the Future with Artificial Intelligence",
-  description: "AI Developer & Machine Learning Specialist",
+  name: "Teodor I.",
+  title: "Building your dreams with precision and top notch quality",
+  description: "Website Development",
   tagline:
-    "I create intelligent solutions that transform businesses and enhance user experiences. Specializing in custom AI development, machine learning, and full-stack implementation.",
-  url: "https://buzzai.example.com",
+    "I create websites and webstores that transform businesses and servers, and enhance user experiences. Specializing in website and webstore development, clients can expect precision to detail and guaranteed satisfaction.",
+  url: "https://ilicdevelopment.xyz",
   ogImage: "/images/og-image.jpg",
   links: {
     github: "https://github.com/",
     twitter: "https://twitter.com/",
     linkedin: "https://linkedin.com/in/",
   },
-  email: "buzz@example.com",
-  discord: "buzz_ai_dev",
-  copyright: "© {year} Buzz.AI. All rights reserved.",
+  email: "inquiries@ilicdevelopment.xyz",
+  discord: "heyitsilic",
+  copyright: "© {year} Teodor I. All rights reserved.",
   navigation: [
     { name: "home", href: "#home" },
     { name: "services", href: "#services" },
