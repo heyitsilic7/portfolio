@@ -27,22 +27,24 @@
     "description": "I offer a range of specialized services focused on artificial intelligence and modern web development to help businesses innovate and grow.",
     "aiDevelopment": {
       "title": "XenForo Forums",
-    "description": "Professional XenForo forum setup and customization, delivering fast, secure, and engaging community platforms tailored to your audience"
-  },
+      "description": "Professional XenForo forum setup and customization, delivering fast, secure, and engaging community platforms tailored to your audience"
+    },
     "machineLearning": {
       "title": "Tebex // CraftingStore Stores",
-    "description": "Fully optimized Tebex webstores for game servers, including custom themes, product setup, and automation for maximum revenue generation"
-  },
-    "title": "Discord Server Setups",
-    "description": "Custom Discord server configurations with roles, bots, permissions, and automation to enhance community engagement and management"
-  },
-    "title": "Portal Pages",
-    "description": "Greet your community with a sleek and a beautiful looking portal page designs, unique and custom made tailored to your needs."
-  },
+      "description": "Fully optimized Tebex webstores for game servers, including custom themes, product setup, and automation for maximum revenue generation"
+    },
+    "discordSetup": {
+      "title": "Discord Server Setups",
+      "description": "Custom Discord server configurations with roles, bots, permissions, and automation to enhance community engagement and management"
+    },
+    "portalPages": {
+      "title": "Portal Pages",
+      "description": "Greet your community with a sleek and a beautiful looking portal page designs, unique and custom made tailored to your needs."
+    },
     "fullStackDevelopment": {
       "title": "Full-Stack Development",
       "description": "End-to-end web and mobile solutions built with modern frameworks and best practices"
-  }
+    }
   },
   "projects": {
     "title": "Featured Projects",
@@ -136,8 +138,8 @@
       "company": "January 2025",
       "review": "Teodor I. delivered an EXCEPTIONAL website that truly exceeded our expectations, showcasing remarkable professionalism. Working with him was a breeze thanks to his quick responsiveness, timely delivery, and proactive communication. Highly recommended!"
     },
-	"michaelChen": {
-    "name": "ealwork",
+    "michaelChen": {
+      "name": "ealwork",
       "company": "January 2025",
       "review": "WOW! Absolutely the best work I have ever had done on Fiverr! Thank you so much for making it easy and efficient, you went above and beyond and the result exceeds my expectations! Full recommend Teodor!"
     },
