@@ -1,7 +1,7 @@
 {
   "site": {
     "name": "Teodor I.",
-    "title": "Teodor I. - Development",
+    "title": "Teodor I.",
     "description": "Website Development",
     "tagline": "I create websites that transform businesses, servers and projects and enhance user experiences. Specializing in XenForo, Wordpress, NamelessMC, Ghost, Tebex and CraftingStore, clients never leave unsatisfied."
   },
@@ -9,7 +9,6 @@
     "home": "Home",
     "services": "Services",
     "projects": "Projects",
-    "experience": "Experience",
     "pricing": "Pricing",
     "reviews": "Reviews",
     "contact": "Contact",
@@ -21,35 +20,33 @@
   "footer": {
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service",
-    "copyright": "© {year} Buzz.AI. All rights reserved."
+    "copyright": "© {year} Teodor I. All rights reserved."
   },
   "services": {
     "title": "Transforming Ideas into Intelligent Solutions",
     "description": "I offer a range of specialized services focused on artificial intelligence and modern web development to help businesses innovate and grow.",
     "aiDevelopment": {
-      "title": "AI Development",
-      "description": "Custom AI solutions tailored to your business needs with state-of-the-art models and algorithms"
-    },
+      "title": "XenForo Forums",
+    "description": "Professional XenForo forum setup and customization, delivering fast, secure, and engaging community platforms tailored to your audience"
+  },
     "machineLearning": {
-      "title": "Machine Learning",
-      "description": "Predictive models that grow smarter over time using your data to deliver actionable insights"
-    },
-    "dataAnalysis": {
-      "title": "Data Analysis",
-      "description": "Transform your raw data into actionable insights with advanced visualization techniques"
-    },
-    "chatbotDevelopment": {
-      "title": "Chatbot Development",
-      "description": "Intelligent conversational interfaces that provide natural, helpful interactions for your users"
-    },
+      "title": "Tebex // CraftingStore Stores",
+    "description": "Fully optimized Tebex webstores for game servers, including custom themes, product setup, and automation for maximum revenue generation"
+  },
+    "title": "Discord Server Setups",
+    "description": "Custom Discord server configurations with roles, bots, permissions, and automation to enhance community engagement and management"
+  },
+    "title": "Portal Pages",
+    "description": "Greet your community with a sleek and a beautiful looking portal page designs, unique and custom made tailored to your needs."
+  },
     "fullStackDevelopment": {
       "title": "Full-Stack Development",
       "description": "End-to-end web and mobile solutions built with modern frameworks and best practices"
-    }
+  }
   },
   "projects": {
     "title": "Featured Projects",
-    "description": "Explore some of my recent work showcasing AI integration, machine learning implementation, and full-stack development.",
+    "description": "Explore some of my recent work showcasing a mix of XenForo, Tebex, CraftingStore and Full-Stack websites.",
     "viewDetails": "View Details",
     "viewLiveProject": "View Live Project",
     "overview": "Overview",
@@ -57,62 +54,34 @@
     "solution": "Solution",
     "results": "Results",
     "aiContentGenerator": {
-      "title": "AI Content Generator",
-      "description": "A powerful AI tool that generates high-quality content for blogs, social media, and more.",
-      "fullDescription": "This AI-powered content generator uses advanced language models to create engaging, SEO-optimized content for various platforms. The tool features customizable tone settings, keyword optimization, and multiple export options."
+      "title": "The FUT Depot - Full-Stack",
+      "description": "A powerful full-stack website featuring custom made automated FUT coin selling, Discord server integration and a unique design.",
+      "fullDescription": "This custom made automated FUT coin selling uses advanced technology models to create an easy and hassle-free coin buying and selling, bringing a completely new era of FUT coin selling to life."
     },
     "virtualAssistant": {
-      "title": "Virtual Assistant Dashboard",
-      "description": "An intuitive dashboard for managing AI virtual assistants and automating workflows.",
-      "fullDescription": "This comprehensive dashboard allows users to create, train, and deploy virtual assistants for customer service, lead generation, and internal processes. The system includes analytics, conversation history, and integration capabilities."
+      "title": "Primary Roleplay",
+      "description": "A modern looking XenForo forums made for roleplay enthusiasts.",
+      "fullDescription": "This modern looking forum allows users to communicate directly between fellow community members and engage in out-of-the-box roleplay experiences, bringing life to Primary Roleplay and its infrastructure."
     },
     "predictiveAnalytics": {
-      "title": "Predictive Analytics Platform",
-      "description": "A data visualization and prediction platform for business intelligence.",
-      "fullDescription": "This platform transforms complex business data into actionable insights through interactive visualizations and AI-powered predictions. Features include customizable dashboards, automated reporting, and anomaly detection."
+      "title": "RuthlessPvP - Forums",
+      "description": "A sleek and professional XenForo forum tailored to the Minecraft PvP community.",
+      "fullDescription": "This sleek, modern XenForo-powered forum is purpose-built for the Minecraft PvP (Player vs Player) community, offering a polished user experience, high-performance design, and a range of powerful features."
     },
     "documentProcessor": {
-      "title": "Smart Document Processor",
-      "description": "An AI system that extracts, categorizes, and summarizes information from documents.",
-      "fullDescription": "This document processing system uses computer vision and natural language processing to automatically extract key information from various document types, including invoices, contracts, and reports. The system categorizes information and generates concise summaries."
+      "title": "RuthlessPvP - Portal",
+      "description": "A user-friendly and basic, but modern and professional welcome portal page.",
+      "fullDescription": "This user-friendly portal page serves as the central hub for your Minecraft PvP server—designed with simplicity, modern design, and easy navigation in mind. It offers players a smooth entry point into your community, while maintaining a professional and immersive first impression."
     },
     "sentimentAnalysis": {
-      "title": "Sentiment Analysis Tool",
-      "description": "A real-time sentiment analysis tool for social media and customer feedback.",
-      "fullDescription": "This tool monitors social media platforms and customer feedback channels to provide real-time sentiment analysis. Features include trend detection, alert systems for negative sentiment spikes, and detailed reporting."
+      "title": "JackpotMC - Store",
+      "description": "A clean looking Tebex store made for a robbers and cops Minecraft server.",
+      "fullDescription": "Crates, coins, ranks - you name it. Step into a professionally crafted Tebex store tailored for a high-stakes robbers vs cops Minecraft experience. Designed to reflect the gritty, fast-paced action of your server, this store features a clean layout, custom visuals, and an immersive theme that aligns perfectly with your brand."
     },
     "recommendationEngine": {
-      "title": "AI-Powered Recommendation Engine",
-      "description": "A sophisticated recommendation system for e-commerce and content platforms.",
-      "fullDescription": "This recommendation engine uses collaborative filtering, content-based analysis, and contextual information to deliver highly relevant product or content recommendations. The system continuously learns from user interactions to improve suggestions."
-    }
-  },
-  "experience": {
-    "title": "Professional Journey",
-    "description": "A timeline of my career progression and key roles in the technology and AI space.",
-    "seniorAiEngineer": {
-      "title": "Senior AI Engineer",
-      "company": "TechFusion AI",
-      "period": "2021 - Present",
-      "description": "Lead the development of AI solutions for enterprise clients. Designed and implemented custom machine learning models and natural language processing systems."
-    },
-    "mlSpecialist": {
-      "title": "Machine Learning Specialist",
-      "company": "DataVision Inc.",
-      "period": "2018 - 2021",
-      "description": "Developed predictive analytics solutions and recommendation systems. Worked with large datasets to train and optimize machine learning models."
-    },
-    "fullStackDeveloper": {
-      "title": "Full-Stack Developer",
-      "company": "WebSphere Solutions",
-      "period": "2016 - 2018",
-      "description": "Built responsive web applications and RESTful APIs. Implemented front-end interfaces and back-end systems for various client projects."
-    },
-    "softwareIntern": {
-      "title": "Software Engineering Intern",
-      "company": "InnoTech Labs",
-      "period": "2015 - 2016",
-      "description": "Assisted in the development of mobile applications and web services. Gained experience in agile development methodologies and software testing."
+      "title": "DEAL - Forums",
+      "description": "A OGUsers inspired website made to compete with the world's best trading forums.",
+      "fullDescription": "This website is a next-generation trading forum inspired by the sleek style and high activity of OGUsers—designed to compete head-to-head with the top digital marketplaces and communities across the globe. It blends a clean, dark aesthetic with powerful user tools and a focus on trust, security, and user-driven commerce."
     }
   },
   "pricing": {
@@ -163,24 +132,24 @@
     "title": "Client Feedback",
     "description": "Hear what clients have to say about their experience working with me.",
     "sarahJohnson": {
-      "name": "Sarah Johnson",
-      "company": "TechStart Inc.",
-      "review": "Working with this freelancer was an absolute pleasure. They delivered our AI solution ahead of schedule and exceeded our expectations in terms of functionality and performance."
+      "name": "tutoree",
+      "company": "January 2025",
+      "review": "Teodor I. delivered an EXCEPTIONAL website that truly exceeded our expectations, showcasing remarkable professionalism. Working with him was a breeze thanks to his quick responsiveness, timely delivery, and proactive communication. Highly recommended!"
     },
-    "michaelChen": {
-      "name": "Michael Chen",
-      "company": "DataFlow Systems",
-      "review": "The custom recommendation engine they built for our e-commerce platform increased our conversion rates by 35%. Their expertise in AI and machine learning is truly impressive."
+	"michaelChen": {
+    "name": "ealwork",
+      "company": "January 2025",
+      "review": "WOW! Absolutely the best work I have ever had done on Fiverr! Thank you so much for making it easy and efficient, you went above and beyond and the result exceeds my expectations! Full recommend Teodor!"
     },
     "emilyRodriguez": {
-      "name": "Emily Rodriguez",
-      "company": "InnovateCorp",
-      "review": "Their ability to translate complex technical concepts into practical business solutions is remarkable. The predictive analytics dashboard they created has become an essential tool for our decision-making process."
+      "name": "wallstreetdebt",
+      "company": "November 2024",
+      "review": "Delivered well before the time limit. Perfectly personalised the forum the way I want it to be. Highly recommend if you want to develop a quick high quality forum."
     },
     "davidKim": {
-      "name": "David Kim",
-      "company": "NextGen Retail",
-      "review": "We've worked with many developers, but none have matched the combination of technical skill and business understanding that this freelancer brings to the table. Highly recommended!"
+      "name": "sorchico",
+      "company": "June 2022",
+      "review": "IlIcmaster is a master of his work. He delivered as described and was patient and very cooperative if I asked for something additional. A very kind person and would/will work with again."
     }
   },
   "contact": {
@@ -191,10 +160,6 @@
   },
   "language": {
     "en": "English",
-    "es": "Español",
-    "fr": "Français",
-    "de": "Deutsch",
-    "ja": "日本語",
     "select": "Select language"
   }
 }
