@@ -1,5 +1,5 @@
 export const site = {
-  name: "Teodor I.",
+  name: "Buzz.AI",
   title: "Building your dreams with precision and top notch quality",
   description: "Website Development",
   tagline:
