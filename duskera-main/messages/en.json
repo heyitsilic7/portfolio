@@ -33,13 +33,13 @@
       "title": "Tebex // CraftingStore Stores",
       "description": "Fully optimized Tebex webstores for game servers, including custom themes, product setup, and automation for maximum revenue generation"
     },
-    "discordSetup": {
+    "dataAnalysis": {
       "title": "Discord Server Setups",
       "description": "Custom Discord server configurations with roles, bots, permissions, and automation to enhance community engagement and management"
     },
-    "portalPages": {
-      "title": "Portal Pages",
-      "description": "Greet your community with a sleek and a beautiful looking portal page designs, unique and custom made tailored to your needs."
+    "chatbotDevelopment": {
+      "title": "Full-Stack Development",
+      "description": "End-to-end web and mobile solutions built with modern frameworks and best practices"
     },
     "fullStackDevelopment": {
       "title": "Full-Stack Development",
@@ -162,6 +162,10 @@
   },
   "language": {
     "en": "English",
+	"es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
     "select": "Select language"
   }
 }
