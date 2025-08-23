@@ -87,17 +87,17 @@
     }
   },
   "pricing": {
-    "title": "Investment Plans",
+    "title": "Choose your package",
     "description": "Transparent pricing options designed to accommodate different project scopes and requirements.",
     "getStarted": "Get Started",
     "basic": {
       "title": "Basic",
       "description": "Perfect for small projects and startups",
       "features": {
-        "design": "Custom AI solution design",
-        "implementation": "Basic implementation",
-        "support": "1 month of support",
-        "documentation": "Documentation",
+        "design": "Basic NamelessMC Forums Setup",
+        "implementation": "No custom designs",
+        "support": "24 hours of support",
+        "documentation": "Up to 2 categories of nodes",
         "revisions": "1 revision round"
       }
     },
@@ -105,28 +105,28 @@
       "title": "Professional",
       "description": "Ideal for growing businesses",
       "features": {
-        "design": "Advanced AI solution design",
-        "implementation": "Full implementation",
-        "support": "3 months of support",
-        "documentation": "Comprehensive documentation",
+        "design": "Advanced XenForo Forums Setup",
+        "implementation": "Advanced Tebex Setup",
+        "support": "7 days of support",
+        "documentation": "Up to 4 categories of nodes",
         "revisions": "3 revision rounds",
-        "optimization": "Performance optimization",
-        "training": "Basic training session"
+        "optimization": "8K UHQ Tebex Icons Included",
+        "training": "Basic guide to future editing and changes"
       }
     },
     "enterprise": {
       "title": "Enterprise",
       "description": "For complex enterprise needs",
       "features": {
-        "design": "Enterprise-grade AI solution",
-        "implementation": "Complete implementation",
-        "support": "6 months of support",
-        "documentation": "Extensive documentation",
+        "design": "Enterprise-grade XenForo Setup",
+        "implementation": "Enterprise-grade Tebex // CraftingStore Setup",
+        "support": "1 month of support",
+        "documentation": "Unlimited categories of nodes",
         "revisions": "Unlimited revisions",
-        "optimization": "Advanced performance optimization",
-        "training": "Multiple training sessions",
-        "contact": "Dedicated support contact",
-        "integrations": "Custom integrations"
+        "optimization": "Advanced LiteBans page",
+        "training": "Advanced Portal & Welcome page",
+        "contact": "Dedicated support contact, reachable 24/7",
+        "integrations": "Detailed guide to future editing and changes"
       }
     }
   },
