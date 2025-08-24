@@ -21,7 +21,7 @@ import ReviewCard from "@/app/components/review-card"
 import GridPattern from "@/app/components/grid-pattern"
 import LanguageSwitcher from "@/app/components/language-switcher"
 
-import { site, services, projects, experience, pricing, reviews } from "@/config"
+import { site, services, projects, pricing, reviews } from "@/config"
 
 export default function Home() {
   const t = useTranslations()
@@ -44,7 +44,6 @@ export default function Home() {
     home: useRef(null),
     services: useRef(null),
     projects: useRef(null),
-    experience: useRef(null),
     pricing: useRef(null),
     reviews: useRef(null),
     contact: useRef(null),
