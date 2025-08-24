@@ -7,9 +7,6 @@ export const site = {
   url: "https://buzzai.example.com",
   ogImage: "/images/og-image.jpg",
   links: {
-    github: "https://github.com/",
-    twitter: "https://twitter.com/",
-    linkedin: "https://linkedin.com/in/",
   },
   email: "inquiries@ilicdevelopment.xyz",
   discord: "heyitsilic",

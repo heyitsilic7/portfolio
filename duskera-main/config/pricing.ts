@@ -2,7 +2,7 @@ export const pricing = [
   {
     id: "basic",
     titleKey: "pricing.basic.title",
-    price: "$1,500",
+    price: "€150",
     descriptionKey: "pricing.basic.description",
     featuresKeys: [
       "pricing.basic.features.design",
@@ -16,7 +16,7 @@ export const pricing = [
   {
     id: "professional",
     titleKey: "pricing.professional.title",
-    price: "$3,500",
+    price: "€500",
     descriptionKey: "pricing.professional.description",
     featuresKeys: [
       "pricing.professional.features.design",
@@ -32,7 +32,7 @@ export const pricing = [
   {
     id: "enterprise",
     titleKey: "pricing.enterprise.title",
-    price: "$8,000+",
+    price: "€750+",
     descriptionKey: "pricing.enterprise.description",
     featuresKeys: [
       "pricing.enterprise.features.design",
