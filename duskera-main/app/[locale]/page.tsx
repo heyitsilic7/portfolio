@@ -348,27 +348,6 @@ export default function Home() {
           </DialogContent>
         </Dialog>
       )}
-
-      {/* Experience Section (Timeline) */}
-      <section ref={sectionRefs.experience} className="py-20 bg-black">
-        <div className="container mx-auto px-4">
-          <div className="max-w-3xl mx-auto text-center mb-16">
-            <Badge className="mb-4 bg-primary/20 text-primary hover:bg-primary/30 transition-colors">
-              {t("nav.experience")}
-            </Badge>
-            <h2 className="text-3xl md:text-4xl font-bold mb-6">{t("experience.title")}</h2>
-            <p className="text-white/70">{t("experience.description")}</p>
-          </div>
-
-          <TimelineComponent
-            items={experience.map((item) => ({
-              ...item,
-              title: t(item.titleKey),
-              company: t(item.companyKey),
-              period: t(item.periodKey),
-              description: t(item.descriptionKey),
-            }))}
-          />
         </div>
       </section>
 
