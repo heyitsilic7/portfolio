@@ -22,7 +22,7 @@ export const site = {
     { name: "reviews", href: "#reviews" },
     { name: "contact", href: "#contact" },
   ],
-  footerLinksEnabled: true,
+  footerLinksEnabled: false,
   footerLinks: [
     { name: "privacyPolicy", href: "/privacy-policy" },
     { name: "termsOfService", href: "/terms-of-service" },
