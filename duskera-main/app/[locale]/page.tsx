@@ -21,7 +21,7 @@ import ReviewCard from "@/app/components/review-card"
 import GridPattern from "@/app/components/grid-pattern"
 import LanguageSwitcher from "@/app/components/language-switcher"
 
-import { site, services, projects, pricing, reviews } from "@/config"
+import { site, services, projects, experience, pricing, reviews } from "@/config"
 
 export default function Home() {
   const t = useTranslations()
@@ -44,6 +44,7 @@ export default function Home() {
     home: useRef(null),
     services: useRef(null),
     projects: useRef(null),
+    experience: useRef(null),
     pricing: useRef(null),
     reviews: useRef(null),
     contact: useRef(null),
@@ -222,7 +223,7 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.3 }}
             >
-              <Button size="lg" className="text-white w-full sm:w-auto" onClick={() => scrollToSection("projects")}>
+              <Button size="lg" className="text-whtie w-full sm:w-auto" onClick={() => scrollToSection("projects")}>
                 {t("nav.viewMyWork")}
                 <ChevronRight className="ml-2 h-4 w-4" />
               </Button>
@@ -348,7 +349,8 @@ export default function Home() {
           </DialogContent>
         </Dialog>
       )}
-	  {/* Experience Section (Timeline) */}
+
+      {/* Experience Section (Timeline) */}
       <section ref={sectionRefs.experience} className="py-20 bg-black">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center mb-16">
@@ -368,8 +370,6 @@ export default function Home() {
               description: t(item.descriptionKey),
             }))}
           />
-        </div>
-      </section>
         </div>
       </section>
 
