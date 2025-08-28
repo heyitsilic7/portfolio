@@ -222,7 +222,7 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: 0.3 }}
             >
-              <Button size="lg" className="text-whtie w-full sm:w-auto" onClick={() => scrollToSection("projects")}>
+              <Button size="lg" className="text-white w-full sm:w-auto" onClick={() => scrollToSection("projects")}>
                 {t("nav.viewMyWork")}
                 <ChevronRight className="ml-2 h-4 w-4" />
               </Button>
