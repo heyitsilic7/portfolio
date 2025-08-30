@@ -1,0 +1,171 @@
+{
+  "site": {
+    "name": "Teodor I. - Development",
+    "title": "Teodor I.",
+    "description": "Website Development",
+    "tagline": "I create websites that transform businesses, servers and projects and enhance user experiences. Specializing in XenForo, Wordpress, NamelessMC, Ghost, Tebex and CraftingStore, clients never leave unsatisfied."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "pricing": "Pricing",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "letsTalk": "Let's Talk",
+    "viewMyWork": "View My Work",
+    "contactMe": "Contact Me",
+    "scrollDown": "Scroll Down"
+  },
+  "footer": {
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "copyright": "© {year} Teodor I. All rights reserved."
+  },
+  "services": {
+    "title": "Transforming ideas into reality.",
+    "description": "I offer a range of specialized services focused on artificial intelligence and modern web development to help businesses innovate and grow.",
+    "aiDevelopment": {
+      "title": "XenForo Forums",
+      "description": "Professional XenForo forum setup and customization, delivering fast, secure, and engaging community platforms tailored to your audience"
+    },
+    "machineLearning": {
+      "title": "Tebex // CraftingStore Stores",
+      "description": "Fully optimized Tebex webstores for game servers, including custom themes, product setup, and automation for maximum revenue generation"
+    },
+    "dataAnalysis": {
+      "title": "Discord Server Setups",
+      "description": "Custom Discord server configurations with roles, bots, permissions, and automation to enhance community engagement and management"
+    },
+    "chatbotDevelopment": {
+      "title": "Full-Stack Development",
+      "description": "End-to-end web and mobile solutions built with modern frameworks and best practices"
+    },
+    "fullStackDevelopment": {
+      "title": "Full-Stack Development",
+      "description": "End-to-end web and mobile solutions built with modern frameworks and best practices"
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "description": "Explore some of my recent work showcasing a mix of XenForo, Tebex, CraftingStore and Full-Stack websites.",
+    "viewDetails": "View Details",
+    "viewLiveProject": "View Live Project",
+    "overview": "Overview",
+    "challenge": "Challenge",
+    "solution": "Solution",
+    "results": "Results",
+    "aiContentGenerator": {
+      "title": "The FUT Depot - Full-Stack",
+      "description": "A powerful full-stack website featuring custom made automated FUT coin selling, Discord server integration and a unique design.",
+      "fullDescription": "This custom made automated FUT coin selling uses advanced technology models to create an easy and hassle-free coin buying and selling, bringing a completely new era of FUT coin selling to life."
+    },
+    "virtualAssistant": {
+      "title": "Primary Roleplay",
+      "description": "A modern looking XenForo forums made for roleplay enthusiasts.",
+      "fullDescription": "This modern looking forum allows users to communicate directly between fellow community members and engage in out-of-the-box roleplay experiences, bringing life to Primary Roleplay and its infrastructure."
+    },
+    "predictiveAnalytics": {
+      "title": "RuthlessPvP - Forums",
+      "description": "A sleek and professional XenForo forum tailored to the Minecraft PvP community.",
+      "fullDescription": "This sleek, modern XenForo-powered forum is purpose-built for the Minecraft PvP (Player vs Player) community, offering a polished user experience, high-performance design, and a range of powerful features."
+    },
+    "documentProcessor": {
+      "title": "RuthlessPvP - Portal",
+      "description": "A user-friendly and basic, but modern and professional welcome portal page.",
+      "fullDescription": "This user-friendly portal page serves as the central hub for your Minecraft PvP server—designed with simplicity, modern design, and easy navigation in mind. It offers players a smooth entry point into your community, while maintaining a professional and immersive first impression."
+    },
+    "sentimentAnalysis": {
+      "title": "JackpotMC - Store",
+      "description": "A clean looking Tebex store made for a robbers and cops Minecraft server.",
+      "fullDescription": "Crates, coins, ranks - you name it. Step into a professionally crafted Tebex store tailored for a high-stakes robbers vs cops Minecraft experience. Designed to reflect the gritty, fast-paced action of your server, this store features a clean layout, custom visuals, and an immersive theme that aligns perfectly with your brand."
+    },
+    "recommendationEngine": {
+      "title": "DEAL - Forums",
+      "description": "A OGUsers inspired website made to compete with the world's best trading forums.",
+      "fullDescription": "This website is a next-generation trading forum inspired by the sleek style and high activity of OGUsers—designed to compete head-to-head with the top digital marketplaces and communities across the globe. It blends a clean, dark aesthetic with powerful user tools and a focus on trust, security, and user-driven commerce."
+    }
+  },
+  "pricing": {
+    "title": "Choose your package",
+    "description": "Transparent pricing options designed to accommodate different project scopes and requirements.",
+    "getStarted": "Get Started",
+    "basic": {
+      "title": "Basic",
+      "description": "Perfect for small projects and startups",
+      "features": {
+        "design": "Basic NamelessMC Forums Setup",
+        "implementation": "No custom designs",
+        "support": "24 hours of support",
+        "documentation": "Up to 2 categories of nodes",
+        "revisions": "1 revision round"
+      }
+    },
+    "professional": {
+      "title": "Professional",
+      "description": "Ideal for growing businesses",
+      "features": {
+        "design": "Advanced XenForo Forums Setup",
+        "implementation": "Advanced Tebex Setup",
+        "support": "7 days of support",
+        "documentation": "Up to 4 categories of nodes",
+        "revisions": "3 revision rounds",
+        "optimization": "8K UHQ Tebex Icons Included",
+        "training": "Basic guide to future editing and changes"
+      }
+    },
+    "enterprise": {
+      "title": "Enterprise",
+      "description": "For complex enterprise needs",
+      "features": {
+        "design": "Enterprise-grade XenForo Setup",
+        "implementation": "Enterprise-grade Tebex // CraftingStore Setup",
+        "support": "1 month of support",
+        "documentation": "Unlimited categories of nodes",
+        "revisions": "Unlimited revisions",
+        "optimization": "Advanced LiteBans page",
+        "training": "Advanced Portal & Welcome page",
+        "contact": "Dedicated support contact, reachable 24/7",
+        "integrations": "Detailed guide to future editing and changes"
+      }
+    }
+  },
+  "reviews": {
+    "title": "Client Feedback",
+    "description": "Hear what clients have to say about their experience working with me.",
+    "sarahJohnson": {
+      "name": "tutoree",
+      "company": "January 2025",
+      "review": "Teodor I. delivered an EXCEPTIONAL website that truly exceeded our expectations, showcasing remarkable professionalism. Working with him was a breeze thanks to his quick responsiveness, timely delivery, and proactive communication. Highly recommended!"
+    },
+    "michaelChen": {
+      "name": "ealwork",
+      "company": "January 2025",
+      "review": "WOW! Absolutely the best work I have ever had done on Fiverr! Thank you so much for making it easy and efficient, you went above and beyond and the result exceeds my expectations! Full recommend Teodor!"
+    },
+    "emilyRodriguez": {
+      "name": "wallstreetdebt",
+      "company": "November 2024",
+      "review": "Delivered well before the time limit. Perfectly personalised the forum the way I want it to be. Highly recommend if you want to develop a quick high quality forum."
+    },
+    "davidKim": {
+      "name": "sorchico",
+      "company": "June 2022",
+      "review": "IlIcmaster is a master of his work. He delivered as described and was patient and very cooperative if I asked for something additional. A very kind person and would/will work with again."
+    }
+  },
+  "contact": {
+    "title": "Let's Work Together",
+    "description": "Have a project in mind? Reach out through any of these channels and I'll get back to you promptly.",
+    "email": "Email",
+    "discord": "Discord"
+  },
+  "language": {
+    "en": "English",
+	"es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "select": "Select language"
+  }
+}
