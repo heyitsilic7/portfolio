@@ -5,8 +5,7 @@ export const site = {
   tagline:
   url: "https://buzzai.example.com",
   ogImage: "/images/og-image.jpg",
-  links: {
-  },
+  links: {}
   email: "inquiries@ilicdevelopment.xyz",
   discord: "heyitsilic",
   copyright: "© {year} Buzz.AI. All rights reserved.",

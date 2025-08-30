@@ -15,6 +15,7 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } f
 import FlowBackground from "@/app/components/flow-background"
 import BentoGrid from "@/app/components/bento-grid"
 import ProjectCard from "@/app/components/project-card"
+import TimelineComponent from "@/app/components/timeline"timeline
 import PricingCard from "@/app/components/pricing-card"
 import ReviewCard from "@/app/components/review-card"
 import GridPattern from "@/app/components/grid-pattern"
